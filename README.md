@@ -19,6 +19,14 @@ app.use(
 <details>
 <summary><b>Installation</b></summary>
 
+## Scope
+
+This repository contains experimental tooling and helpers related to the x402 payment flow.
+
+The code is intended for exploration, prototyping, and integration testing. APIs and internal utilities may evolve over time and should not be considered stable unless explicitly documented.
+
+Feedback and improvements focused on correctness and developer experience are welcome.
+
 ### Typescript
 
 ```shell
